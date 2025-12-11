@@ -76,3 +76,16 @@ Todos los ejemplos están documentados paso a paso y basados en el dataset real 
    jupyter notebook
 
 Observación: El dataset Online_Retail.csv está disponible públicamente. Puedes descargarlo desde UCI Machine Learning Repository [https://archive.ics.uci.edu/dataset/352/online+retail] o incluirlo en la carpeta del proyecto.
+
+---
+
+### 💡 Hecho por [Carlos Corrales](https://github.com/Carlos-39)
+
+Estudiante de **Ingeniería de Sistemas** en la **Universidad del Valle (Cali, Colombia)**  
+Apasionado por la **Inteligencia Artificial**, **Ciencia de Datos** y el **desarrollo colaborativo**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/TU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Carlos-39)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:TU_CORREO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F00?logo=vercel&logoColor=white&style=flat)](https://TU_PORTAFOLIO)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://instagram.com/TU_IG)
